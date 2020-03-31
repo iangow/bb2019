@@ -1,0 +1,219 @@
+Tue Mar 31 12:53:12 EDT 2020 Starting API estimation
+Tue Mar 31 12:53:12 EDT 2020 Starting API estimation for AUS
+Tue Mar 31 12:55:26 EDT 2020 Starting API estimation for CAN
+Tue Mar 31 12:59:09 EDT 2020 Starting API estimation for CHN
+Tue Mar 31 13:01:43 EDT 2020 Starting API estimation for DEU
+Tue Mar 31 13:03:07 EDT 2020 Starting API estimation for FRA
+Tue Mar 31 13:05:23 EDT 2020 Starting API estimation for GBR
+Tue Mar 31 13:10:36 EDT 2020 Starting API estimation for HKG
+Tue Mar 31 13:12:15 EDT 2020 Starting API estimation for IDN
+Tue Mar 31 13:12:50 EDT 2020 Starting API estimation for JPN
+Tue Mar 31 13:19:19 EDT 2020 Starting API estimation for KOR
+Tue Mar 31 13:21:05 EDT 2020 Starting API estimation for MYS
+Tue Mar 31 13:22:28 EDT 2020 Starting API estimation for NZL
+Tue Mar 31 13:22:57 EDT 2020 Starting API estimation for PHL
+Tue Mar 31 13:23:22 EDT 2020 Starting API estimation for SGP
+Tue Mar 31 13:24:12 EDT 2020 Starting API estimation for THA
+Tue Mar 31 13:25:10 EDT 2020 Starting API estimation for TWN
+Tue Mar 31 13:26:18 EDT 2020 Starting API plots
+Tue Mar 31 13:26:18 EDT 2020 Starting to generate API plot input data for AUS
+Tue Mar 31 13:26:21 EDT 2020 Starting to generate API plot input data for CAN
+Tue Mar 31 13:26:25 EDT 2020 Starting to generate API plot input data for CHN
+Tue Mar 31 13:26:27 EDT 2020 Starting to generate API plot input data for DEU
+Tue Mar 31 13:26:30 EDT 2020 Starting to generate API plot input data for FRA
+Tue Mar 31 13:26:33 EDT 2020 Starting to generate API plot input data for GBR
+Tue Mar 31 13:26:37 EDT 2020 Starting to generate API plot input data for HKG
+Tue Mar 31 13:26:40 EDT 2020 Starting to generate API plot input data for IDN
+Tue Mar 31 13:26:42 EDT 2020 Starting to generate API plot input data for JPN
+Tue Mar 31 13:26:45 EDT 2020 Starting to generate API plot input data for KOR
+Tue Mar 31 13:26:48 EDT 2020 Starting to generate API plot input data for MYS
+Tue Mar 31 13:26:51 EDT 2020 Starting to generate API plot input data for NZL
+Tue Mar 31 13:26:54 EDT 2020 Starting to generate API plot input data for PHL
+Tue Mar 31 13:26:56 EDT 2020 Starting to generate API plot input data for SGP
+Tue Mar 31 13:26:59 EDT 2020 Starting to generate API plot input data for THA
+Tue Mar 31 13:27:02 EDT 2020 Starting to generate API plot input data for TWN
+Tue Mar 31 13:27:05 EDT 2020 Creating zip archive of API plots
+  adding: F3_API_plot_base_case_AUS.pdf (deflated 8%)
+  adding: F3_API_plot_base_case_CAN.pdf (deflated 8%)
+  adding: F3_API_plot_base_case_CHN.pdf (deflated 8%)
+  adding: F3_API_plot_base_case_DEU.pdf (deflated 8%)
+  adding: F3_API_plot_base_case_FRA.pdf (deflated 8%)
+  adding: F3_API_plot_base_case_GBR.pdf (deflated 8%)
+  adding: F3_API_plot_base_case_HKG.pdf (deflated 8%)
+  adding: F3_API_plot_base_case_IDN.pdf (deflated 8%)
+  adding: F3_API_plot_base_case_JPN.pdf (deflated 8%)
+  adding: F3_API_plot_base_case_KOR.pdf (deflated 8%)
+  adding: F3_API_plot_base_case_MYS.pdf (deflated 8%)
+  adding: F3_API_plot_base_case_NZL.pdf (deflated 8%)
+  adding: F3_API_plot_base_case_PHL.pdf (deflated 8%)
+  adding: F3_API_plot_base_case_SGP.pdf (deflated 7%)
+  adding: F3_API_plot_base_case_THA.pdf (deflated 7%)
+  adding: F3_API_plot_base_case_TWN.pdf (deflated 8%)
+Tue Mar 31 13:27:05 EDT 2020 Starting T3
+Tue Mar 31 13:27:09 EDT 2020 Starting T4
+Tue Mar 31 13:27:12 EDT 2020 Starting T5 resampling tests
+Tue Mar 31 13:27:12 EDT 2020 Starting resampling sig test for sub-period diffs, Good less Bad news, for AUS
+Tue Mar 31 13:28:03 EDT 2020 Starting resampling sig test for sub-period diffs, Good less Bad news, for CAN
+Tue Mar 31 13:29:39 EDT 2020 Starting resampling sig test for sub-period diffs, Good less Bad news, for CHN
+Tue Mar 31 13:30:40 EDT 2020 Starting resampling sig test for sub-period diffs, Good less Bad news, for DEU
+Tue Mar 31 13:31:14 EDT 2020 Starting resampling sig test for sub-period diffs, Good less Bad news, for FRA
+Tue Mar 31 13:32:15 EDT 2020 Starting resampling sig test for sub-period diffs, Good less Bad news, for GBR
+Tue Mar 31 13:34:58 EDT 2020 Starting resampling sig test for sub-period diffs, Good less Bad news, for HKG
+Tue Mar 31 13:35:41 EDT 2020 Starting resampling sig test for sub-period diffs, Good less Bad news, for IDN
+Tue Mar 31 13:35:53 EDT 2020 Starting resampling sig test for sub-period diffs, Good less Bad news, for JPN
+Tue Mar 31 13:39:07 EDT 2020 Starting resampling sig test for sub-period diffs, Good less Bad news, for KOR
+Tue Mar 31 13:39:48 EDT 2020 Starting resampling sig test for sub-period diffs, Good less Bad news, for MYS
+Tue Mar 31 13:40:26 EDT 2020 Starting resampling sig test for sub-period diffs, Good less Bad news, for NZL
+Tue Mar 31 13:40:36 EDT 2020 Starting resampling sig test for sub-period diffs, Good less Bad news, for PHL
+Tue Mar 31 13:40:43 EDT 2020 Starting resampling sig test for sub-period diffs, Good less Bad news, for SGP
+Tue Mar 31 13:41:01 EDT 2020 Starting resampling sig test for sub-period diffs, Good less Bad news, for THA
+Tue Mar 31 13:41:26 EDT 2020 Starting resampling sig test for sub-period diffs, Good less Bad news, for TWN
+Tue Mar 31 13:41:56 EDT 2020 Starting T6
+Tue Mar 31 13:42:02 EDT 2020 Starting T5 time-series regressions
+Tue Mar 31 13:42:04 EDT 2020 Completed F3 + T3, T4, T5 for IBES countries, and T6
+Tue Mar 31 13:42:04 EDT 2020 Building tar archive <my_reproduce_IBES_results_in_BB2019.tar> which includes all needed input files + the results
+commands_IBES_2020.cmd
+API_R_Plots_IBES.sh
+API_plot_input_data.sh
+APIs.sh
+make_results_directories.sh
+resample_subperiod_diffs.sh
+APIs_IBES.awk
+T6.awk
+resample_subperiod_APIs_IBES.awk
+T3.txt
+T4.txt
+T5_columns_10_to_13.txt
+T5_columns_1_to_9.txt
+T5_time_series_regn_input.txt
+T6.txt
+avge_by_fyr_roradj_overlap=YES_censor=NO_all_countries.txt
+tdg_calndr_16_IBES_countries.txt
+./Country_Data/AUS/RI_AUS.txt
+./Country_Data/AUS/code_IBES_eps_signals_output_20181020_AUS.txt
+./Country_Data/AUS/distn_RIs_IBES_AUS.txt
+./Country_Data/AUS/tdg_calndr_AUS.txt
+./Country_Data/CAN/RI_CAN.txt
+./Country_Data/CAN/code_IBES_eps_signals_output_20181020_CAN.txt
+./Country_Data/CAN/distn_RIs_IBES_CAN.txt
+./Country_Data/CAN/tdg_calndr_CAN.txt
+./Country_Data/CHN/RI_CHN.txt
+./Country_Data/CHN/code_IBES_eps_signals_output_20181020_CHN.txt
+./Country_Data/CHN/distn_RIs_IBES_CHN.txt
+./Country_Data/CHN/tdg_calndr_CHN.txt
+./Country_Data/DEU/RI_DEU.txt
+./Country_Data/DEU/code_IBES_eps_signals_output_20181020_DEU.txt
+./Country_Data/DEU/distn_RIs_IBES_DEU.txt
+./Country_Data/DEU/tdg_calndr_DEU.txt
+./Country_Data/FRA/RI_FRA.txt
+./Country_Data/FRA/code_IBES_eps_signals_output_20181020_FRA.txt
+./Country_Data/FRA/distn_RIs_IBES_FRA.txt
+./Country_Data/FRA/tdg_calndr_FRA.txt
+./Country_Data/GBR/RI_GBR.txt
+./Country_Data/GBR/code_IBES_eps_signals_output_20181020_GBR.txt
+./Country_Data/GBR/distn_RIs_IBES_GBR.txt
+./Country_Data/GBR/tdg_calndr_GBR.txt
+./Country_Data/HKG/RI_HKG.txt
+./Country_Data/HKG/code_IBES_eps_signals_output_20181020_HKG.txt
+./Country_Data/HKG/distn_RIs_IBES_HKG.txt
+./Country_Data/HKG/tdg_calndr_HKG.txt
+./Country_Data/IDN/RI_IDN.txt
+./Country_Data/IDN/code_IBES_eps_signals_output_20181020_IDN.txt
+./Country_Data/IDN/distn_RIs_IBES_IDN.txt
+./Country_Data/IDN/tdg_calndr_IDN.txt
+./Country_Data/JPN/RI_JPN.txt
+./Country_Data/JPN/code_IBES_eps_signals_output_20181020_JPN.txt
+./Country_Data/JPN/distn_RIs_IBES_JPN.txt
+./Country_Data/JPN/tdg_calndr_JPN.txt
+./Country_Data/KOR/RI_KOR.txt
+./Country_Data/KOR/code_IBES_eps_signals_output_20181020_KOR.txt
+./Country_Data/KOR/distn_RIs_IBES_KOR.txt
+./Country_Data/KOR/tdg_calndr_KOR.txt
+./Country_Data/MYS/RI_MYS.txt
+./Country_Data/MYS/code_IBES_eps_signals_output_20181020_MYS.txt
+./Country_Data/MYS/distn_RIs_IBES_MYS.txt
+./Country_Data/MYS/tdg_calndr_MYS.txt
+./Country_Data/NZL/RI_NZL.txt
+./Country_Data/NZL/code_IBES_eps_signals_output_20181020_NZL.txt
+./Country_Data/NZL/distn_RIs_IBES_NZL.txt
+./Country_Data/NZL/tdg_calndr_NZL.txt
+./Country_Data/PHL/RI_PHL.txt
+./Country_Data/PHL/code_IBES_eps_signals_output_20181020_PHL.txt
+./Country_Data/PHL/distn_RIs_IBES_PHL.txt
+./Country_Data/PHL/tdg_calndr_PHL.txt
+./Country_Data/SGP/RI_SGP.txt
+./Country_Data/SGP/code_IBES_eps_signals_output_20181020_SGP.txt
+./Country_Data/SGP/distn_RIs_IBES_SGP.txt
+./Country_Data/SGP/tdg_calndr_SGP.txt
+./Country_Data/THA/RI_THA.txt
+./Country_Data/THA/code_IBES_eps_signals_output_20181020_THA.txt
+./Country_Data/THA/distn_RIs_IBES_THA.txt
+./Country_Data/THA/tdg_calndr_THA.txt
+./Country_Data/TWN/RI_TWN.txt
+./Country_Data/TWN/code_IBES_eps_signals_output_20181020_TWN.txt
+./Country_Data/TWN/distn_RIs_IBES_TWN.txt
+./Country_Data/TWN/tdg_calndr_TWN.txt
+./Country_Results/AUS/API_sub_periods_overlap=YES_censor=NO_AUS.txt
+./Country_Results/AUS/APIs_IBES_std_output_AUS.txt
+./Country_Results/AUS/APIs_IBES_to_plot_AUS.txt
+./Country_Results/AUS/resample_subperiod_APIs_IBES_output_AUS.txt
+./Country_Results/CAN/API_sub_periods_overlap=YES_censor=NO_CAN.txt
+./Country_Results/CAN/APIs_IBES_std_output_CAN.txt
+./Country_Results/CAN/APIs_IBES_to_plot_CAN.txt
+./Country_Results/CAN/resample_subperiod_APIs_IBES_output_CAN.txt
+./Country_Results/CHN/API_sub_periods_overlap=YES_censor=NO_CHN.txt
+./Country_Results/CHN/APIs_IBES_std_output_CHN.txt
+./Country_Results/CHN/APIs_IBES_to_plot_CHN.txt
+./Country_Results/CHN/resample_subperiod_APIs_IBES_output_CHN.txt
+./Country_Results/DEU/API_sub_periods_overlap=YES_censor=NO_DEU.txt
+./Country_Results/DEU/APIs_IBES_std_output_DEU.txt
+./Country_Results/DEU/APIs_IBES_to_plot_DEU.txt
+./Country_Results/DEU/resample_subperiod_APIs_IBES_output_DEU.txt
+./Country_Results/FRA/API_sub_periods_overlap=YES_censor=NO_FRA.txt
+./Country_Results/FRA/APIs_IBES_std_output_FRA.txt
+./Country_Results/FRA/APIs_IBES_to_plot_FRA.txt
+./Country_Results/FRA/resample_subperiod_APIs_IBES_output_FRA.txt
+./Country_Results/GBR/API_sub_periods_overlap=YES_censor=NO_GBR.txt
+./Country_Results/GBR/APIs_IBES_std_output_GBR.txt
+./Country_Results/GBR/APIs_IBES_to_plot_GBR.txt
+./Country_Results/GBR/resample_subperiod_APIs_IBES_output_GBR.txt
+./Country_Results/HKG/API_sub_periods_overlap=YES_censor=NO_HKG.txt
+./Country_Results/HKG/APIs_IBES_std_output_HKG.txt
+./Country_Results/HKG/APIs_IBES_to_plot_HKG.txt
+./Country_Results/HKG/resample_subperiod_APIs_IBES_output_HKG.txt
+./Country_Results/IDN/API_sub_periods_overlap=YES_censor=NO_IDN.txt
+./Country_Results/IDN/APIs_IBES_std_output_IDN.txt
+./Country_Results/IDN/APIs_IBES_to_plot_IDN.txt
+./Country_Results/IDN/resample_subperiod_APIs_IBES_output_IDN.txt
+./Country_Results/JPN/API_sub_periods_overlap=YES_censor=NO_JPN.txt
+./Country_Results/JPN/APIs_IBES_std_output_JPN.txt
+./Country_Results/JPN/APIs_IBES_to_plot_JPN.txt
+./Country_Results/JPN/resample_subperiod_APIs_IBES_output_JPN.txt
+./Country_Results/KOR/API_sub_periods_overlap=YES_censor=NO_KOR.txt
+./Country_Results/KOR/APIs_IBES_std_output_KOR.txt
+./Country_Results/KOR/APIs_IBES_to_plot_KOR.txt
+./Country_Results/KOR/resample_subperiod_APIs_IBES_output_KOR.txt
+./Country_Results/MYS/API_sub_periods_overlap=YES_censor=NO_MYS.txt
+./Country_Results/MYS/APIs_IBES_std_output_MYS.txt
+./Country_Results/MYS/APIs_IBES_to_plot_MYS.txt
+./Country_Results/MYS/resample_subperiod_APIs_IBES_output_MYS.txt
+./Country_Results/NZL/API_sub_periods_overlap=YES_censor=NO_NZL.txt
+./Country_Results/NZL/APIs_IBES_std_output_NZL.txt
+./Country_Results/NZL/APIs_IBES_to_plot_NZL.txt
+./Country_Results/NZL/resample_subperiod_APIs_IBES_output_NZL.txt
+./Country_Results/PHL/API_sub_periods_overlap=YES_censor=NO_PHL.txt
+./Country_Results/PHL/APIs_IBES_std_output_PHL.txt
+./Country_Results/PHL/APIs_IBES_to_plot_PHL.txt
+./Country_Results/PHL/resample_subperiod_APIs_IBES_output_PHL.txt
+./Country_Results/SGP/API_sub_periods_overlap=YES_censor=NO_SGP.txt
+./Country_Results/SGP/APIs_IBES_std_output_SGP.txt
+./Country_Results/SGP/APIs_IBES_to_plot_SGP.txt
+./Country_Results/SGP/resample_subperiod_APIs_IBES_output_SGP.txt
+./Country_Results/THA/API_sub_periods_overlap=YES_censor=NO_THA.txt
+./Country_Results/THA/APIs_IBES_std_output_THA.txt
+./Country_Results/THA/APIs_IBES_to_plot_THA.txt
+./Country_Results/THA/resample_subperiod_APIs_IBES_output_THA.txt
+./Country_Results/TWN/API_sub_periods_overlap=YES_censor=NO_TWN.txt
+./Country_Results/TWN/APIs_IBES_std_output_TWN.txt
+./Country_Results/TWN/APIs_IBES_to_plot_TWN.txt
+./Country_Results/TWN/resample_subperiod_APIs_IBES_output_TWN.txt
